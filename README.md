@@ -6,7 +6,7 @@ Building production web applications with React and TypeScript, integrating AI-p
 chat and voice interfaces, and working across the full stack from backend APIs to
 polished, accessible UI.
 
-[![Email](https://img.shields.io/badge/Email-Yashtechjar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yashtechjar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Yashtechjar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yashrajd151@gmail.com)
 
 <br>
 
