@@ -1,5 +1,3 @@
-<div align="center">
-
 # Yash Raj
 
 ### Full-Stack Developer | AI Integrations
@@ -10,13 +8,9 @@ polished, accessible UI.
 
 [![Email](https://img.shields.io/badge/Email-Yashtechjar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yashtechjar@gmail.com)
 
-</div>
-
 <br>
 
 ## Tech Stack
-
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,8 +21,6 @@ polished, accessible UI.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe%2FERPNext-0089D6?style=for-the-badge&logo=frappe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
 
 ## What I Work On
 
@@ -42,17 +34,9 @@ polished, accessible UI.
 
 ## GitHub Stats
 
-<div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashtech77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashtech77&theme=tokyonight&hide_border=true" />
 
-</div>
-
 <br>
 
-<div align="center">
-
 *Most of my current work lives in private repositories — happy to walk through it directly.*
-
-</div>
